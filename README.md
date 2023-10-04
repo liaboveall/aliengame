@@ -1,2 +1,2 @@
 # aliengame
-a yiny python game
+a tiny python game
